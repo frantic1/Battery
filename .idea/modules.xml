@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Battery.iml" filepath="$PROJECT_DIR$/Battery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/about/about.iml" filepath="$PROJECT_DIR$/about/about.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flashlight/flashlight.iml" filepath="$PROJECT_DIR$/flashlight/flashlight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uploadhive/uploadhive.iml" filepath="$PROJECT_DIR$/uploadhive/uploadhive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uploadimage/uploadimage.iml" filepath="$PROJECT_DIR$/uploadimage/uploadimage.iml" />
+    </modules>
+  </component>
+</project>

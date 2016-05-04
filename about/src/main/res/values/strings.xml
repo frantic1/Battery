@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">AhaBus.com is the only realtime bus ticket Booking portal in Nepal where you will find different options for bus seats, routes and bus types on the site.\n
+        We guarantee your reservations and comfortable travel experience.</string>
+    <string name="points">
+\n\n
+>Book  bus tickets with a single click within minutes without visiting bus station or ticket counters.\n
+>Choose buses and your seat freely, everything is on your control.\n
+>You can choose buses based on boarding points, timing and bus type, choose where fits you the best.\n
+>You can choose many  bus operators and route at a time.\n
+>You can cancel your ticket in case of emergency  as per the cancellation policy, you are always in safe hands. Please read TnC for more details.\n
+>Payment flexibility, pay us via different online payment methods, or by using book now pay later, bank deposit, pay to driver and many more.\n
+>You can also hold your tickets for certain time .
+
+    </string>
+</resources>
